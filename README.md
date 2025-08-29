@@ -5,7 +5,7 @@ The goal is to analyze customer behavior, identify top cuisines/cities, track sa
 
 ---
 
-## 📑 **Table of Contents**  
+## **Table of Contents**  
 1. [SQL – Data Extraction & Transformation](#-sql--data-extraction--transformation)  
 2. [Excel – Dashboard & Data Analysis](#-excel--dashboard--data-analysis)  
 3. [Power BI – Interactive Dashboard](#-power-bi--interactive-dashboard)  
@@ -43,30 +43,30 @@ The goal is to analyze customer behavior, identify top cuisines/cities, track sa
 - Added **interactive slicers and filters** for city, cuisine, and order channel.  
 - **Key visuals included:**  
   - Top restaurants and cuisines  
-  - 📆 Monthly sales trend  
-  - 🗺️ City-wise performance map  
+  - Monthly sales trend  
+  - City-wise performance map  
 - Enhanced usability with drill-downs and tooltips.  
 
 ---
 
-## 📉 **Tableau – Visual Storytelling**  
+## **Tableau – Visual Storytelling**  
 - Designed a **Tableau dashboard** for storytelling and high-level KPI tracking.  
 - Created interactive visuals to highlight:  
-  - 🍴 Sales by cuisine type  
-  - 🌆 City-level order distribution  
-  - 📊 Trends in customer preferences  
+  - Sales by cuisine type  
+  - City-level order distribution  
+  - Trends in customer preferences  
 - Used filters and parameters for flexible analysis.  
 
 ---
 
-## 🛠 **Tools & Technologies**  
-- 🐘 **SQL** → Data querying & transformation  
-- 📊 **Excel** → Pivot tables, charts, dashboards  
-- 📈 **Power BI** → DAX, KPI dashboards, drill-downs  
-- 📉 **Tableau** → Visual storytelling, interactive reports  
+## **Tools & Technologies**  
+- **SQL** → Data querying & transformation  
+- **Excel** → Pivot tables, charts, dashboards  
+- **Power BI** → DAX, KPI dashboards, drill-downs  
+- **Tableau** → Visual storytelling, interactive reports  
 
 ---
 
-## 🚀 **Conclusion**  
+## **Conclusion**  
 This project showcases how a single dataset can be analyzed across **multiple tools** to extract, visualize, and communicate insights effectively.  
 It simulates a real-world analytics workflow for **data-driven business decisions**.  
