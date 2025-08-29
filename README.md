@@ -1,10 +1,23 @@
-Zomato Data Analysis
+🍽️ Zomato Data Analysis
 
-This repository contains a complete analysis of Zomato dataset across four modules: Excel, Power BI, Tableau, and SQL.
+This repository contains a complete analysis of Zomato dataset across four modules: SQL, Excel, Power BI, and Tableau.
 The goal is to analyze customer behavior, identify top cuisines/cities, track sales performance, and demonstrate how different BI tools can be used for data-driven insights.
 
-Project Modules
-1. SQL – Data Extraction & Transformation
+📑 Table of Contents
+
+🔍 SQL – Data Extraction & Transformation
+
+📊 Excel – Dashboard & Data Analysis
+
+📈 Power BI – Interactive Dashboard
+
+📉 Tableau – Visual Storytelling
+
+🛠 Tools & Technologies
+
+🚀 Conclusion
+
+🔍 SQL – Data Extraction & Transformation
 
 Wrote SQL queries to filter, clean, and extract insights from Zomato dataset.
 
@@ -20,7 +33,7 @@ Customer ordering frequency analysis.
 
 Prepared reusable SQL scripts for analysis.
 
-2. Excel – Dashboard & Data Analysis
+📊 Excel – Dashboard & Data Analysis
 
 Cleaned and structured raw Zomato data using Excel functions.
 
@@ -30,13 +43,13 @@ Designed an interactive Excel dashboard with slicers for city, cuisine, and orde
 
 Key visuals included:
 
-Top 10 cuisines by revenue.
+🍕 Top 10 cuisines by revenue.
 
-City-wise sales comparison.
+🏙️ City-wise sales comparison.
 
-Customer order trends.
+👥 Customer order trends.
 
-3. Power BI – Interactive Dashboard
+📈 Power BI – Interactive Dashboard
 
 Built a Power BI dashboard for in-depth restaurant analysis.
 
@@ -46,37 +59,37 @@ Added interactive slicers and filters for city, cuisine, and order channel.
 
 Key visuals included:
 
-Top restaurants and cuisines.
+⭐ Top restaurants and cuisines.
 
-Monthly sales trend.
+📆 Monthly sales trend.
 
-City-wise performance map.
+🗺️ City-wise performance map.
 
 Enhanced usability with drill-downs and tooltips.
 
-4. Tableau – Visual Storytelling
+📉 Tableau – Visual Storytelling
 
 Designed a Tableau dashboard for storytelling and high-level KPI tracking.
 
 Created interactive visuals to highlight:
 
-Sales by cuisine type.
+🍴 Sales by cuisine type.
 
-City-level order distribution.
+🌆 City-level order distribution.
 
-Trends in customer preferences.
+📊 Trends in customer preferences.
 
 Used filters and parameters for flexible analysis.
 
 🛠 Tools & Technologies
 
-SQL → Data querying & transformation
+🐘 SQL → Data querying & transformation
 
-Excel → Pivot tables, charts, dashboards
+📊 Excel → Pivot tables, charts, dashboards
 
-Power BI → DAX, KPI dashboards, drill-downs
+📈 Power BI → DAX, KPI dashboards, drill-downs
 
-Tableau → Visual storytelling, interactive reports
+📉 Tableau → Visual storytelling, interactive reports
 
 🚀 Conclusion
 
